@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm toshi-toma
 
+- [Twitter](https://twitter.com/toshi__toma)
+
 <!--
 **toshi-toma/toshi-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
