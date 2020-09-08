@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm toshi-toma
 
+
+[![Toshihisa Tomatsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshi-toma)](https://github.com/toshi-toma/github-readme-stats)
+
 - [Twitter](https://twitter.com/toshi__toma)
 
 <!--
