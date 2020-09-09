@@ -2,6 +2,7 @@
 
 
 [![Toshihisa Tomatsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshi-toma)](https://github.com/toshi-toma/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toshi-toma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - [Twitter](https://twitter.com/toshi__toma)
 
